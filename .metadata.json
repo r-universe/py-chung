@@ -2,5 +2,9 @@
   {
     "package": "IPLGP",
     "oncran": true
+  },
+  {
+    "package": "QTLEMM",
+    "oncran": true
   }
 ]
