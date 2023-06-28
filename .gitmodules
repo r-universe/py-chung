@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IPLGP"]
 	path = IPLGP
 	url = https://github.com/py-chung/iplgp
-	shallow = true
-	registered = true
 [submodule "QTLEMM"]
 	path = QTLEMM
 	url = https://github.com/py-chung/qtlemm
-	shallow = true
-	registered = true
